@@ -1,8 +1,9 @@
+![Sobre: Background](https://github.com/gacarvalho/hadoop-hdfs-project/blob/main/Image/background-hadoop.png)
 
 
 ## 📌 PROPOSTA DO PROJETO
 
-O objetivo do projeto é apresentar uma solução de dados utilizando o ecossistema Hadoop. O foco do projeto era manipular o HDFS, formatando o sistema de arquivos e executando operações com arquivos e diretórios, aplicando uma codificação MapperReducer com Java. O objetivo final do projeto é aprender quais foram os jogos mais vendidos em cada ano, distribuindo o arquivo pelo HDFS. 
+O objetivo do projeto é apresentar uma solução de dados utilizando o ecossistema Hadoop. O foco do projeto era manipular o HDFS, formatando o sistema de arquivos e executando operações com arquivos e diretórios, aplicando uma codificação MapperReducer com Java. O objetivo final do projeto é apresentar quais foram os jogos mais vendidos em cada ano, distribuindo o arquivo pelo HDFS. 
 
 
 📢  ETAPA 1 : ANÁLISE DO BANCO DE DADOS RELACIONAL
