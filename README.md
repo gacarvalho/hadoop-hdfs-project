@@ -1,4 +1,4 @@
-![Sobre: Background](https://github.com/gacarvalho/hadoop-hdfs-project/blob/main/Image/background-hadoop.png)
+![Sobre: Background](https://github.com/gacarvalho/hadoop-hdfs-project/blob/main/Image/background-hadoop-atualizado.png)
 
 
 ## 📌 PROPOSTA DO PROJETO
