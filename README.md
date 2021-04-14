@@ -39,7 +39,7 @@ Após o alocamento da base de dados, é possível analisar o bloco da base de da
 
 Logo após a análise dos dados e extração do mesmo para o HDFS, foi necessário realizar uma programação para aplicar o Mapper e e o Reducer, para isso, a linguagem escolhida foi Java. Na figura abaixo é possível observar a declaração do JobConf e referenciando as classes Map e Reduce.
 
-![Sobre: Imagem Hadoop 9](https://github.com/gacarvalho/hadoop-hdfs-/blob/main/Image/9.png)
+![Sobre: Imagem Hadoop 9](https://github.com/gacarvalho/hadoop-hdfs-project/blob/main/Image/9.1.png?raw=true)
 
 Na imagem a seguir, já possível analisar a programação da classe MapIGTI.
 
